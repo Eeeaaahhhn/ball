@@ -1,0 +1,168 @@
+Spellbook Title: Wacky_Witch_Handbook
+Author: Gretchen
+Number of Pages: 1344
+Edition: 19
+Average Success Rate: 66.9433
+Spells:
+ - Blasto_Strike (Effect: fire, Success Rate: 40.6)
+ - Space_Out (Effect: memory_loss, Success Rate: 60.23)
+ - Bubble_Beam (Effect: bubble, Success Rate: 100)
+
+Spellbook Title: Forbidden_Tome
+Author: Voldemort
+Number of Pages: 1938
+Edition: 1
+Average Success Rate: 32.825
+Spells:
+ - Avada_Kedavra (Effect: death, Success Rate: 20.45)
+ - Snake_Bite (Effect: poison, Success Rate: 45.2)
+
+Spellbook Title: Necronomicon
+Author: LoveCraft
+Number of Pages: 1890
+Edition: 3
+Average Success Rate: 43.662
+Spells:
+ - Wacky_Dreams (Effect: memory_loss, Success Rate: 89.8)
+ - Cthulhu_Venom (Effect: poison, Success Rate: 77.2)
+ - Deathrock (Effect: death, Success Rate: 20.4)
+ - Nightmare (Effect: death, Success Rate: 25.89)
+ - Deadly_Details (Effect: death, Success Rate: 5.02)
+
+Spellbook Title: Enchiridion
+Author: various_heros
+Number of Pages: 2090
+Edition: 1
+Average Success Rate: 59.7154
+Spells:
+ - Dog_Stretch (Effect: bubble, Success Rate: 70.883)
+ - Not_Ice_Blast (Effect: fire, Success Rate: 92.744)
+ - Blush (Effect: fire, Success Rate: 100)
+ - Adopted_By_Dogs (Effect: memory_loss, Success Rate: 0.05)
+ - Cloud_Dream (Effect: memory_loss, Success Rate: 34.9)
+
+Spellbook Title: Charming_Charms
+Author: Linda_Charming
+Number of Pages: 4460
+Edition: 3
+Average Success Rate: 79.4153
+Spells:
+ - Lovely_Day (Effect: memory_loss, Success Rate: 90.23)
+ - Smile (Effect: bubble, Success Rate: 99.9)
+ - Sunshine (Effect: fire, Success Rate: 73.2)
+ - Lucky_One (Effect: bubble, Success Rate: 54.331)
+
+Spellbook Title: Dorian
+Author: Ludvig_Vivaldi
+Number of Pages: 50000
+Edition: 1
+Average Success Rate: 64.1625
+Spells:
+ - Music_To_Me (Effect: fire, Success Rate: 87.32)
+ - Lydian (Effect: poison, Success Rate: 41.005)
+
+Spellbook Title: The_Uses_of_Excalibur
+Author: Merlin
+Number of Pages: 3322
+Edition: 2
+Average Success Rate: 47.877
+Spells:
+ - Deadly_Battle (Effect: death, Success Rate: 30.031)
+ - Strong_Swing (Effect: fire, Success Rate: 68.7)
+ - Winning_Day (Effect: memory_loss, Success Rate: 44.9)
+
+Spellbook Title: Spells_for_Dummies
+Author: Tracey_Wood
+Number of Pages: 305
+Edition: 1
+Average Success Rate: 79.73
+Spells:
+ - Preliminary_Black_Out (Effect: memory_loss, Success Rate: 55.5)
+ - Exploratory_Maneuver (Effect: bubble, Success Rate: 88.5)
+ - Beginning_Blast (Effect: fire, Success Rate: 97.3)
+ - Introductory_Levitation (Effect: bubble, Success Rate: 77.62)
+
+Spellbook Title: Wacky_Witch_Handbook
+Author: Gretchen
+Number of Pages: 1344
+Edition: 19
+Average Success Rate: 66.9433
+Spells:
+ - Blasto_Strike (Effect: fire, Success Rate: 40.6)
+ - Space_Out (Effect: memory_loss, Success Rate: 60.23)
+ - Bubble_Beam (Effect: bubble, Success Rate: 100)
+
+Spellbook Title: Forbidden_Tome
+Author: Voldemort
+Number of Pages: 1938
+Edition: 1
+Average Success Rate: 32.825
+Spells:
+ - Avada_Kedavra (Effect: death, Success Rate: 20.45)
+ - Snake_Bite (Effect: poison, Success Rate: 45.2)
+
+Spellbook Title: Necronomicon
+Author: LoveCraft
+Number of Pages: 1890
+Edition: 3
+Average Success Rate: 43.662
+Spells:
+ - Wacky_Dreams (Effect: memory_loss, Success Rate: 89.8)
+ - Cthulhu_Venom (Effect: poison, Success Rate: 77.2)
+ - Deathrock (Effect: death, Success Rate: 20.4)
+ - Nightmare (Effect: death, Success Rate: 25.89)
+ - Deadly_Details (Effect: death, Success Rate: 5.02)
+
+Spellbook Title: Enchiridion
+Author: various_heros
+Number of Pages: 2090
+Edition: 1
+Average Success Rate: 59.7154
+Spells:
+ - Dog_Stretch (Effect: bubble, Success Rate: 70.883)
+ - Not_Ice_Blast (Effect: fire, Success Rate: 92.744)
+ - Blush (Effect: fire, Success Rate: 100)
+ - Adopted_By_Dogs (Effect: memory_loss, Success Rate: 0.05)
+ - Cloud_Dream (Effect: memory_loss, Success Rate: 34.9)
+
+Spellbook Title: Charming_Charms
+Author: Linda_Charming
+Number of Pages: 4460
+Edition: 3
+Average Success Rate: 79.4153
+Spells:
+ - Lovely_Day (Effect: memory_loss, Success Rate: 90.23)
+ - Smile (Effect: bubble, Success Rate: 99.9)
+ - Sunshine (Effect: fire, Success Rate: 73.2)
+ - Lucky_One (Effect: bubble, Success Rate: 54.331)
+
+Spellbook Title: Dorian
+Author: Ludvig_Vivaldi
+Number of Pages: 50000
+Edition: 1
+Average Success Rate: 64.1625
+Spells:
+ - Music_To_Me (Effect: fire, Success Rate: 87.32)
+ - Lydian (Effect: poison, Success Rate: 41.005)
+
+Spellbook Title: The_Uses_of_Excalibur
+Author: Merlin
+Number of Pages: 3322
+Edition: 2
+Average Success Rate: 47.877
+Spells:
+ - Deadly_Battle (Effect: death, Success Rate: 30.031)
+ - Strong_Swing (Effect: fire, Success Rate: 68.7)
+ - Winning_Day (Effect: memory_loss, Success Rate: 44.9)
+
+Spellbook Title: Spells_for_Dummies
+Author: Tracey_Wood
+Number of Pages: 305
+Edition: 1
+Average Success Rate: 79.73
+Spells:
+ - Preliminary_Black_Out (Effect: memory_loss, Success Rate: 55.5)
+ - Exploratory_Maneuver (Effect: bubble, Success Rate: 88.5)
+ - Beginning_Blast (Effect: fire, Success Rate: 97.3)
+ - Introductory_Levitation (Effect: bubble, Success Rate: 77.62)
+
